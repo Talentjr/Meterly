@@ -2,7 +2,7 @@
 ⚡ METERLY - Auto-Load Electricity Solution  
 Nigeria's Premier Automatic Meter Recharging Platform 
 
-"METERLY saved me 3 hours weekly! No more physical token input or begging neighbors for light." - Amina B. (Lagos Beta Tester)
+> "METERLY saved me 3 hours weekly! No more physical token input or begging neighbors for light." - Amina B. (Lagos Beta Tester)
 
  📖 Table of Contents
 1. The Electricity Recharge Problem
