@@ -5,6 +5,7 @@ Nigeria's Premier Automatic Meter Recharging Platform
 > "METERLY saved me 3 hours weekly! No more physical token input or begging neighbors for light." - Amina B. (Lagos Beta Tester)
 
  📖 Table of Contents
+ 
  i. TECH STACK
 1. The Electricity Recharge Problem
 2. How METERLY Works
@@ -19,7 +20,9 @@ Nigeria's Premier Automatic Meter Recharging Platform
 11. Future Roadmap
 
  🛠 Tech Stack & Architecture
+ 
 METERLY is built on a modern, robust, and scalable technology stack designed for reliability and security.
+
  📱 Frontend (User Interface)
  
  ⚙ Backend (Server & Logic)
@@ -28,9 +31,11 @@ METERLY is built on a modern, robust, and scalable technology stack designed for
 - TypeScript
 - PostgreSQL
 - MongoDB
+
  🔐 Security & Validation
 - JWT (JSON Web Tokens)
 - Express-Validator
+  
  📧 Communication & Services
 - Nodemailer
   
