@@ -62,7 +62,7 @@ Multiple secure payment methods for your convenience:
 We protect your data and transactions with military-grade measures:
 
 🔐 Data Protection
-- End-to-End AES-256 Encryption - All data in transit and at rest  
+- Ensuring input validation at the point of registration  
 - NDPR Compliance - Certified data handling practices  
 - Zero Data Sharing - Your information never sold to third parties  
 
@@ -72,7 +72,6 @@ We protect your data and transactions with military-grade measures:
 - Dual Authorization - Required for transactions >₦50,000  
 
 🔑 Account Security
-- Biometric Login - Fingerprint/Face ID authentication  
 - Two-Factor Authentication - SMS or authenticator app codes  
 - Session Timeouts - Automatic logout after 15 minutes idle  
 
