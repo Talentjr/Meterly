@@ -99,6 +99,7 @@ Follow these simple steps to begin your autoload journey:
   [DEMO_TRIAL_VIDEO](https://youtube.com/shorts/_hiobV1YpWA?si=ZRQkGB6inKihYyUM)
 
 📸 See METERLY in Action
+
 Registration: Secure signup with password strength validation
 <img width="1284" height="2778" alt="image" src="https://github.com/user-attachments/assets/ece02108-f256-442e-ab78-8386aba69445" />
 
