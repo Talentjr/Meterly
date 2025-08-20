@@ -24,6 +24,10 @@ Nigeria's Premier Automatic Meter Recharging Platform
 METERLY is built on a modern, robust, and scalable technology stack designed for reliability and security.
 
  📱 Frontend (User Interface)
+
+ - Typescript
+ - Next.js
+ - tailwind.css
  
  ⚙ Backend (Server & Logic)
 - Node.js
